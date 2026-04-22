@@ -2,6 +2,12 @@
   
 # Welbody
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://sqlalchemy.org)
+[![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logo=alembic&logoColor=white)](https://alembic.sqlalchemy.org)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-2094f3?style=flat-square&logo=uvicorn&logoColor=white)](https://uvicorn.org)
 </div>
 
 **Provides REST APIs for:** 
@@ -13,17 +19,6 @@
 - triage
 - nursing
 - and admin utilities.
-
-<div align="center">
-
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://sqlalchemy.org)
-[![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logo=alembic&logoColor=white)](https://alembic.sqlalchemy.org)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-2094f3?style=flat-square&logo=uvicorn&logoColor=white)](https://uvicorn.org)
-
-</div>
 
 ## Features
 
