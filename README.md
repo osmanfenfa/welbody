@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welbody Backend
+# Welbody
 
 Provides REST APIs for patients, prescriptions, labs, inventory, pharmacy, triage, nursing, users, and admin utilities.
 
