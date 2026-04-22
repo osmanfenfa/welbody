@@ -2,6 +2,8 @@
   
 # Welbody
 
+</div>
+
 **Provides REST APIs for:** 
 - Ptients
 - rescriptions
@@ -11,6 +13,8 @@
 - triage
 - nursing
 - and admin utilities.
+
+<div align="center">
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
