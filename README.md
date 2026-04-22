@@ -14,8 +14,11 @@ Provides REST APIs for patients, prescriptions, labs, inventory, pharmacy, triag
 ## Features
 
 Modular FastAPI routes organized by domain (patients, pharmacy, lab, etc.)
+
 SQLAlchemy models with Alembic migrations
+
 Service layer and data schemas for clean separation
+
 JWT-based auth, audit logging, and utilities
 
 ## Quickstart
