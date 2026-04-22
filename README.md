@@ -2,7 +2,15 @@
   
 # Welbody
 
-Provides REST APIs for patients, prescriptions, labs, inventory, pharmacy, triage, nursing, users, and admin utilities.
+**Provides REST APIs for:** 
+- Ptients
+- rescriptions
+- labs
+- inventory
+- pharmacy
+- triage
+- nursing
+- and admin utilities.
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -11,15 +19,14 @@ Provides REST APIs for patients, prescriptions, labs, inventory, pharmacy, triag
 [![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logo=alembic&logoColor=white)](https://alembic.sqlalchemy.org)
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-2094f3?style=flat-square&logo=uvicorn&logoColor=white)](https://uvicorn.org)
 
+</div>
+
 ## Features
 
-Modular FastAPI routes organized by domain (patients, pharmacy, lab, etc.)
-
-SQLAlchemy models with Alembic migrations
-
-Service layer and data schemas for clean separation
-
-JWT-based auth, audit logging, and utilities
+- Modular FastAPI routes organized by domain (patients, pharmacy, lab, etc.)
+- SQLAlchemy models with Alembic migrations
+- ervice layer and data schemas for clean separation
+- WT-based auth, audit logging, and utilities
 
 ## Quickstart
 
